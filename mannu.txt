@@ -5,7 +5,13 @@
 </head>
 <body>
 
-<h1>mansi sharma</h1>
+<h1>Open the Instagram app on your smartphone.
+Find the profile with the desired Stories.
+Copy the username.
+Paste it to the input box.
+Click on the Download button.
+Yay, Stories will be saved on your phone.
+</h1>
 <p> student.</p>
 
 </body>
